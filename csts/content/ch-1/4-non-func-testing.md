@@ -1,6 +1,7 @@
 ## 개요
 
 ![alt text](image-2.png)
+![alt text](image-6.png)
 
 ## 기능 적합성 테스트
 
