@@ -8,6 +8,14 @@
 
 > 2024.02.17 ~ 2024.04.27
 
-### ✅ [CSTS](https://github.com/viaunixue/dev-certification/wiki/📁-정보-처리-기사)
+### ✅ [CSTS](https://github.com/viaunixue/dev-certification/wiki/📁-CSTS)
 
 > 2024.02.26 ~ 2024.03.16
+
+<!-- ### ✅ [AWS SAA](https://github.com/viaunixue/dev-certification/wiki/📁-CSTS)
+
+> 2024.02.26 ~ 2024.03.16
+
+### ✅ [SQLD](https://github.com/viaunixue/dev-certification/wiki/📁-CSTS)
+
+> 2024.02.26 ~ 2024.03.16 -->
