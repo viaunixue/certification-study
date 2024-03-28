@@ -12,10 +12,10 @@
 
 > 2024.02.26 ~ 2024.03.16
 
-<!-- ### ✅ [AWS SAA](https://github.com/viaunixue/dev-certification/wiki/📁-CSTS)
+### 📜 [AWS SAA](https://github.com/viaunixue/dev-certification/wiki/📁-CSTS)
 
-> 2024.02.26 ~ 2024.03.16
+> 2024 상반기 취득 예정
 
-### ✅ [SQLD](https://github.com/viaunixue/dev-certification/wiki/📁-CSTS)
+### 📜 [SQLD](https://github.com/viaunixue/dev-certification/wiki/📁-CSTS)
 
-> 2024.02.26 ~ 2024.03.16 -->
+> 2024 상반기 취득 예정
