@@ -10,7 +10,7 @@
 
 ### ✅ [CSTS](https://github.com/viaunixue/dev-certification/wiki/📁-CSTS)
 
-> 2024.02.26 ~ 2024.03.16
+> 2024.05.16 ~ 2024.06.15
 
 ### 📜 [AWS SAA](https://github.com/viaunixue/dev-certification/wiki/📁-CSTS)
 
